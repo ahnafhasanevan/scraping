@@ -1,0 +1,10 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+pandas>=2.0
+openpyxl>=3.1
+tqdm>=4.66
+Pillow>=10.0
+# Optional but recommended: renders JavaScript-heavy pages in a headless browser.
+# Selenium 4.6+ downloads the matching browser driver by itself (no webdriver-manager needed).
+selenium>=4.15

@@ -1,0 +1,6 @@
+To use it
+
+Delete the previous folder, extract the new zip into C:\Users\Hp\Downloads, and double-click run_windows.bat.
+To run just some universities, use python main.py -u diu nsu.
+The keys for the new five are diu, uiu, aiub, iub and nsu.
+If you'd rather each script save to the folder written inside it, set EXTERNAL_SCRIPTS_OWN_OUTPUT = True in config.py.
