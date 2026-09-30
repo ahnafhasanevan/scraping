@@ -289,5 +289,5 @@ The scraped data belongs to the respective universities and individuals; this pr
 ## Author
 
 **TODO: Your Name**
-Email: your@email.com
+Email: ahnafhasanevan
 GitHub: https://github.com/ahnafhasanevan
